@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Chatbot using Flask & OpenAI
 
 This is a web-based AI chatbot built using **Python, Flask, and OpenAI API**.
