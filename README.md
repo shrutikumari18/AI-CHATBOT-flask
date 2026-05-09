@@ -32,6 +32,3 @@ This is a web-based AI chatbot built using **Python, Flask, and OpenAI API**.
 - Chat history
 - Authentication
 - Deployment
-=======
-# chatbot-using--Python
->>>>>>> a7f079775b58ee1002ebf5e77d36f2d6fbc4f541
